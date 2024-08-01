@@ -1,5 +1,7 @@
 # Fsociety
 All In One Hacking Tool For Skids
+
+- [x] Password Cracking 
 # Disclaimer 
 This Tool Is For Educational Purposes Only
 
