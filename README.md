@@ -18,13 +18,13 @@ This tool should only be used with the explicit consent of the system or network
 
 By using this tool, you acknowledge that you have read, understood, and agree to abide by this disclaimer. If you do not agree, you must not use this tool.
 
-# Setup
-'''
+# Setup [KALI LINUX]
+```
 git clone https://github.com/HAXOR-BD1/Fsociety
 cd Fsociety
 unzip fsociety.zip
 python3 fsociety.py
-'''
+```
 
 # Features
 
