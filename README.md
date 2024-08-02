@@ -1,4 +1,6 @@
 
+
+
 # Disclaimer 
 
 
@@ -28,9 +30,11 @@ python3 fsociety.py
 
 # Features
 
-- [x] Password Cracking 
-- [x] Wi-Fi Password Cracking 
+- [x] Password Cracking
+- [x] Wi-Fi Password Cracking
 - [x] Website Attacks
+- [x] Metasploit Payload Generator
+- [x] IP Tracker
 
 
 
